@@ -5,7 +5,8 @@
     "kiadás-éve": 1869,
     "ár": 3700,
     "raktárkészlet": 25,
-    "kedvezmény": 14
+    "kedvezmény": 14,
+    "nyelv": "magyar"
   },
   {
     "cím": "Egri csillagok",
@@ -13,7 +14,8 @@
     "kiadás-éve": 1901,
     "ár": 4000,
     "raktárkészlet": 25,
-    "kedvezmény": 12
+    "kedvezmény": 12,
+    "nyelv": "magyar"
   },
   {
     "cím": "Pál utcai fiúk",
@@ -21,7 +23,8 @@
     "kiadás-éve": 1906,
     "ár": 3000,
     "raktárkészlet": 25,
-    "kedvezmény": 13
+    "kedvezmény": 13,
+    "nyelv": "magyar"
   },
   {
     "cím": "Az arany ember",
@@ -29,7 +32,8 @@
     "kiadás-éve": 1872,
     "ár": 4500,
     "raktárkészlet": 25,
-    "kedvezmény": 10
+    "kedvezmény": 10,
+    "nyelv": "magyar"
   },
   {
     "cím": "Tüskevár",
@@ -37,7 +41,8 @@
     "kiadás-éve": 1957,
     "ár": 3200,
     "raktárkészlet": 25,
-    "kedvezmény": 19
+    "kedvezmény": 19,
+    "nyelv": "magyar"
   },
   {
     "cím": "Légy jó mindhalálig",
@@ -45,7 +50,8 @@
     "kiadás-éve": 1920,
     "ár": 2800,
     "raktárkészlet": 25,
-    "kedvezmény": 21
+    "kedvezmény": 21,
+    "nyelv": "magyar"
   },
   {
     "cím": "Abigél",
@@ -53,7 +59,8 @@
     "kiadás-éve": 1970,
     "ár": 3700,
     "raktárkészlet": 25,
-    "kedvezmény": 20
+    "kedvezmény": 20,
+    "nyelv": "magyar"
   },
   {
     "cím": "A Pál utcai fiúk",
@@ -61,7 +68,8 @@
     "kiadás-éve": 1906,
     "ár": 3000,
     "raktárkészlet": 25,
-    "kedvezmény": 10
+    "kedvezmény": 10,
+    "nyelv": "magyar"
   },
   {
     "cím": "Kincskereső kisködmön",
@@ -69,7 +77,8 @@
     "kiadás-éve": 1918,
     "ár": 2500,
     "raktárkészlet": 25,
-    "kedvezmény": 11
+    "kedvezmény": 11,
+    "nyelv": "magyar"
   },
   {
     "cím": "Iskola a határon",
@@ -77,6 +86,7 @@
     "kiadás-éve": 1959,
     "ár": 3600,
     "raktárkészlet": 25,
-    "kedvezmény": 10
+    "kedvezmény": 10,
+    "nyelv": "magyar"
   }
 ]
