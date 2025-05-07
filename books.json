@@ -87,5 +87,13 @@
     "raktárkészlet": 25,
     "kedvezmény": 10,
     "nyelv": "magyar"
+  },
+  {
+    "cím": "A láthatatlan ember",
+    "szerző": "Gárdonyi Géza",
+    "kiadás-éve": 1902,
+    "ár": 3900,
+    "kedvezmény": 0,
+    "nyelv": "magyar"
   }
 ]
