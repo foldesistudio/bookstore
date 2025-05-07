@@ -1,99 +1,99 @@
 [
   {
-    "cím": "A kőszívű ember fiai",
-    "szerző": "Jókai Mór",
+    "cím": "A KŐSZÍVŰ EMBER FIAI",
+    "szerző": "JÓKAI MÓR",
     "kiadás-éve": 1869,
     "ár": 3700,
     "raktárkészlet": 25,
     "kedvezmény": 14,
-    "nyelv": "magyar"
+    "nyelv": "MAGYAR"
   },
   {
     "cím": "Egri csillagok",
-    "szerző": "Gárdonyi Géza",
+    "szerző": "GÁRDONYI GÉZA",
     "kiadás-éve": 1901,
     "ár": 4000,
     "raktárkészlet": 25,
     "kedvezmény": 12,
-    "nyelv": "magyar"
+    "nyelv": "MAGYAR"
   },
   {
-    "cím": "Pál utcai fiúk",
-    "szerző": "Molnár Ferenc",
+    "cím": "PÁL UTCAI FIÚK",
+    "szerző": "MOLNÁR FERENC",
     "kiadás-éve": 1906,
     "ár": 3000,
     "raktárkészlet": 25,
     "kedvezmény": 13,
-    "nyelv": "magyar"
+    "nyelv": "MAGYAR"
   },
   {
-    "cím": "Az arany ember",
-    "szerző": "Jókai Mór",
+    "cím": "AZ ARANY EMBER",
+    "szerző": "JÓKAI MÓR",
     "kiadás-éve": 1872,
     "ár": 4500,
     "raktárkészlet": 25,
     "kedvezmény": 10,
-    "nyelv": "magyar"
+    "nyelv": "MAGYAR"
   },
   {
     "cím": "Tüskevár",
-    "szerző": "Fekete István",
+    "szerző": "FEKETE ISTVÁN",
     "kiadás-éve": 1957,
     "ár": 3200,
     "raktárkészlet": 25,
     "kedvezmény": 19,
-    "nyelv": "magyar"
+    "nyelv": "MAGYAR"
   },
   {
-    "cím": "Légy jó mindhalálig",
-    "szerző": "Móricz Zsigmond",
+    "cím": "LÉGY JÓ MINDHALÁLIG",
+    "szerző": "MÓRICZ ZSIGMOND",
     "kiadás-éve": 1920,
     "ár": 2800,
     "raktárkészlet": 25,
     "kedvezmény": 21,
-    "nyelv": "magyar"
+    "nyelv": "MAGYAR"
   },
   {
-    "cím": "Abigél",
-    "szerző": "Szabó Magda",
+    "cím": "ABIGÉL",
+    "szerző": "SZABÓ MAGDA",
     "kiadás-éve": 1970,
     "ár": 3700,
     "raktárkészlet": 25,
     "kedvezmény": 20,
-    "nyelv": "magyar"
+    "nyelv": "MAGYAR"
   },
   {
-    "cím": "A funtineli boszorkány",
-    "szerző": "Wass Albert",
+    "cím": "A FUNTINELI BOSZORKÁNY",
+    "szerző": "WASS ALBERT",
     "kiadás-éve": 1943,
     "ár": 4200,
     "kedvezmény": 10,
     "raktárkészlet": 20
   },
   {
-    "cím": "Kincskereső kisködmön",
-    "szerző": "Móra Ferenc",
+    "cím": "KINCSKERESŐ KISKÖDMÖN",
+    "szerző": "MÓRA FERENC",
     "kiadás-éve": 1918,
     "ár": 2500,
     "raktárkészlet": 25,
     "kedvezmény": 11,
-    "nyelv": "magyar"
+    "nyelv": "MAGYAR"
   },
   {
-    "cím": "Iskola a határon",
-    "szerző": "Ottlik Géza",
+    "cím": "ISKOLA A HATÁRON",
+    "szerző": "OTTLIK GÉZA",
     "kiadás-éve": 1959,
     "ár": 3600,
     "raktárkészlet": 25,
     "kedvezmény": 10,
-    "nyelv": "magyar"
+    "nyelv": "MAGYAR"
   },
   {
-    "cím": "A láthatatlan ember",
-    "szerző": "Gárdonyi Géza",
+    "cím": "A LÁTHATATLAN EMBER",
+    "szerző": "GÁRDONYI GÉZA",
     "kiadás-éve": 1902,
     "ár": 3900,
     "kedvezmény": 0,
-    "nyelv": "magyar"
+    "nyelv": "MAGYAR"
   }
 ]
