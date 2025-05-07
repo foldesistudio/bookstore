@@ -6,7 +6,8 @@
     "ár": 3700,
     "raktárkészlet": 25,
     "kedvezmény": 14,
-    "nyelv": "MAGYAR"
+    "nyelv": "MAGYAR",
+    "oldalszám": 1000
   },
   {
     "cím": "Egri csillagok",
@@ -15,7 +16,8 @@
     "ár": 4000,
     "raktárkészlet": 25,
     "kedvezmény": 12,
-    "nyelv": "MAGYAR"
+    "nyelv": "MAGYAR",
+    "oldalszám": 900
   },
   {
     "cím": "PÁL UTCAI FIÚK",
@@ -24,7 +26,8 @@
     "ár": 3000,
     "raktárkészlet": 25,
     "kedvezmény": 13,
-    "nyelv": "MAGYAR"
+    "nyelv": "MAGYAR",
+    "oldalszám": 800
   },
   {
     "cím": "AZ ARANY EMBER",
@@ -33,7 +36,8 @@
     "ár": 4500,
     "raktárkészlet": 25,
     "kedvezmény": 10,
-    "nyelv": "MAGYAR"
+    "nyelv": "MAGYAR",
+    "oldalszám": 600
   },
   {
     "cím": "Tüskevár",
@@ -42,7 +46,8 @@
     "ár": 3200,
     "raktárkészlet": 25,
     "kedvezmény": 19,
-    "nyelv": "MAGYAR"
+    "nyelv": "MAGYAR",
+    "oldalszám": 500
   },
   {
     "cím": "LÉGY JÓ MINDHALÁLIG",
@@ -51,7 +56,8 @@
     "ár": 2800,
     "raktárkészlet": 25,
     "kedvezmény": 21,
-    "nyelv": "MAGYAR"
+    "nyelv": "MAGYAR",
+    "oldalszám": 400
   },
   {
     "cím": "ABIGÉL",
@@ -60,7 +66,8 @@
     "ár": 3700,
     "raktárkészlet": 25,
     "kedvezmény": 20,
-    "nyelv": "MAGYAR"
+    "nyelv": "MAGYAR",
+    "oldalszám": 300
   },
   {
     "cím": "A FUNTINELI BOSZORKÁNY",
@@ -68,7 +75,9 @@
     "kiadás-éve": 1943,
     "ár": 4200,
     "kedvezmény": 10,
-    "raktárkészlet": 20
+    "raktárkészlet": 20,
+    "nyelv": "magyar",
+    "oldalszám": 222
   },
   {
     "cím": "KINCSKERESŐ KISKÖDMÖN",
@@ -77,7 +86,8 @@
     "ár": 2500,
     "raktárkészlet": 25,
     "kedvezmény": 11,
-    "nyelv": "MAGYAR"
+    "nyelv": "MAGYAR",
+    "oldalszám": 111
   },
   {
     "cím": "ISKOLA A HATÁRON",
@@ -85,8 +95,9 @@
     "kiadás-éve": 1959,
     "ár": 3600,
     "raktárkészlet": 25,
-    "kedvezmény": 10,
-    "nyelv": "MAGYAR"
+    "kedvezmény": 110,
+    "nyelv": "MAGYAR",
+    "oldalszám": 109
   },
   {
     "cím": "A LÁTHATATLAN EMBER",
@@ -94,6 +105,7 @@
     "kiadás-éve": 1902,
     "ár": 3900,
     "kedvezmény": 0,
-    "nyelv": "MAGYAR"
+    "nyelv": "MAGYAR",
+    "oldalszám": 100
   }
 ]
